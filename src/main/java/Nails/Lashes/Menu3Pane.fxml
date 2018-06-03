@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="670.0" prefWidth="940.0" style="-fx-background-color: #81007F; -fx-background-radius: 80;" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Nails.Lashes.Menu3Pane">
+   <children>
+      <Text layoutX="133.0" layoutY="322.0" strokeType="OUTSIDE" strokeWidth="0.0" text="UNDER CONSTRUCTION" textAlignment="CENTER" wrappingWidth="673.6708984375">
+         <font>
+            <Font size="48.0" />
+         </font>
+      </Text>
+   </children>
+</Pane>
